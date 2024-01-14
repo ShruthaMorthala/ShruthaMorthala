@@ -5,7 +5,7 @@
 
 # 👩🏾‍🎓 Education
 👩🏾‍💻Bachelors in Information Science at University of Bergen </br>
-✨Currenly in my final semester (weeee) </br>
+🎓Currenly in my final semester (weeee) </br>
 💜I love doing little dance moves when my code works <br>
 
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
 # 🧙🏾‍♀️Currently Exploring
-🤍 Java Script
-🤍 Diverse vegetarian culinary
-🤍 Fantasy Fiction
-🤍 Video Editing
+✨ Java Script </br>
+✨ Vegetarian culinary </br>
+✨ Fantasy Fiction </br>
+✨ Salsa </br>
