@@ -5,8 +5,8 @@
 
 # 👩🏾‍🎓 Education
 👩🏾‍💻Bachelors in Information Science at University of Bergen </br>
-🎉Currenly in my final semester (weeee) </br>
-❤️I love doing little dance moves when my code works <br>
+✨Currenly in my final semester (weeee) </br>
+💜I love doing little dance moves when my code works <br>
 
 
 # 💻 Tech stack
@@ -14,3 +14,9 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+
+# 🧙🏾‍♀️Currently Exploring
+🤍 Java Script
+🤍 Diverse vegetarian culinary
+🤍 Fantasy Fiction
+🤍 Video Editing
