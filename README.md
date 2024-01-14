@@ -9,6 +9,4 @@
 ❤️I love doing little dance moves when my code works <br>
 
 
-<div class="specializations" align="center">
-  # 💻 Tech stack
-</div>
+# 💻 Tech stack
