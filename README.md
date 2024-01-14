@@ -10,5 +10,5 @@
 
 
 <div class="specializations" align="center">
-  ##💻Tech stack
+  # 💻 Tech stack
 </div>
