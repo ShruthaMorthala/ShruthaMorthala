@@ -17,13 +17,13 @@
 
 
 # 🅰️ Adobe 
-### 💜 AE </br>
-### 💜 Pr </br>
-### 💜 Me </br>
-### 💜 Ai </br>
+💜 AE </br>
+💜 Pr </br>
+💜 Me </br>
+💜 Ai </br>
 
 # 🧙🏾‍♀️Currently Exploring
 ✨ Java Script </br>
 ✨ Vegetarian culinary </br>
-✨ Fantasy Fiction </br>
+✨ Japanese Literature </br>
 ✨ Salsa </br>
