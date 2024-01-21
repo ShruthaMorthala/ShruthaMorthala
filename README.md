@@ -17,10 +17,10 @@
 
 
 # 🅰️ Adobe 
-💜 AE
-💜 Pr
-💜 Me
-🧡 Ai
+## 💜 AE </br>
+## 💜 Pr </br>
+## 💜 Me </br>
+## 🧡 Ai </br>
 
 # 🧙🏾‍♀️Currently Exploring
 ✨ Java Script </br>
