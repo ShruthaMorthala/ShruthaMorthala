@@ -1,0 +1,317 @@
+.flex-containerLeft {
+    color: white;
+    text-align: left;
+    text-indent: 10px;
+    flex:1;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.flex-containerRight {
+    color: white;
+    text-align: right;
+    text-indent: 20px;
+    flex:1;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+html {
+    height: 200vh;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(
+        black 5%,
+        #dadbf1 5%,
+        #dadbf1 25%,
+        white 25%,
+        white 80%
+
+        );
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+.Flex-container {
+    display: flex;
+    /* background: linear-gradient(
+        to top ,
+        #dadbf1 80% 0%,
+        black 80% 100%
+        ); */
+}
+
+.submit {
+    position: relative;
+    background-color:#1F1E21;
+    border-style: solid;
+    border-color: white;
+    border-top-width: thin;
+    border-bottom-width: thin;
+    border-left-width: thin;
+    border-right-width: thin;
+    padding: 20px;
+    border-radius: 5px;
+    width: 30%;
+    top:-35px;
+    margin-left: 250px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.submit > h3 {
+    text-align: right;
+    line-height: 22px;
+    position: absolute;
+    top: -10px;
+    padding: 0 15px;
+}
+
+.SignIn {
+    position: relative;
+    background-color: #4C5FD5;
+    border-style: solid;
+    border-color: #4C5FD5;
+    padding:20px;
+    border-radius: 5px;
+    width: 10%;
+    top:8px;
+    margin-left: 500px;
+    padding-left: 5px;
+}
+
+.SignIn > h3 {
+    text-align: right;
+    line-height: 30px;
+    position: absolute;
+    top: -10px;
+    /* padding: 0 5px; */
+
+}
+
+
+.Search_help >h2 {
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+
+.Search_help > form {
+    text-align: center;
+}
+
+.Search_help > form > input {
+    width: 500px;
+    height: 40px;
+}
+
+.Search_help > form > input::placeholder {
+    padding-left: 10px;
+}
+
+.Learn_more {
+    display: flex;
+    /* padding-top: 90px; */
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    flex-direction: row;
+    align-items: center;
+    padding-top: 40px;
+    align-content: space-between;
+    background-color: white;
+    border-style: solid;
+    border-color:white;
+    margin-top: 50px;
+
+}
+.Learn_more > .Left_text>div > h4 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-indent: 0.5%;
+
+}
+
+.Learn_more > .Right_text>div > h4 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 200px;
+
+}
+
+.Learn_more > .Left_text>div > p {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    word-spacing: 0.1em;
+    text-indent: 0%;
+}
+
+.Learn_more > .Right_text>div >p{
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    word-spacing: 0.1em;
+    padding-left: 80px;
+    /* padding-inline: 10px; */
+
+
+}
+
+.Left_text{
+    text-align: left;
+    text-indent: 10px;
+    flex:1;
+    margin-left: 300px;
+    margin-top: 10px;
+    flex:1;
+}
+
+.Right_text{
+    text-align: right;
+    text-indent: 10px;
+    flex:1;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
+
+/* .Branches {
+    padding-top:40px;
+}
+
+
+.Manage {
+    padding-top:10px;
+    padding-right: 500px;
+}
+
+
+.Aunthenticate {
+    padding-top: 10px;
+} */
+
+.Account_management >h4{
+    margin-right: -40px;
+}
+
+.Manage_billing >h4{
+    margin-right: 20px;
+}
+
+.diy_support >p {
+    margin-right: 120px;
+}
+
+
+.Right_text >div > a{
+    margin-right: 270px;
+} 
+
+/* .DownPart > .Abstract_flex {
+    color: black;
+    padding-top: 400px;
+
+    
+
+} */
+.DownPart {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 300px;
+    padding-top: 40px;
+    align-content: space-between;
+    background-color: black;
+    border-style: solid;
+    border-color:border;
+    margin-top: 400px;
+
+}
+
+.DownPart > .Abstract_flex {
+
+    padding-top: 10px;
+    padding-left: 60px;
+    color: white;
+
+}
+
+.Abstract_flex > h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 0.4;
+}
+
+
+.DownPart > .Resources {
+    color: white;
+    padding-left: 100px;
+    margin-bottom: 100px;
+}
+
+.Resources > h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 0.10;
+}
+
+.DownPart > .Community {
+    color: white;
+    margin-right: 100px;
+    /* padding-right: 5px; */
+    padding-left: 100px;
+}
+
+.Community > h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: lighter;
+    line-height: 0.10;
+}
+
+.DownPart > .Company {
+    color: white;
+    padding-right: 300px;
+}
+
+.Company > h5{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    line-height: 0.10;
+}
+
+.DownPart > .ContactUs {
+    color: white;
+    padding-top:30px;
+    padding-left: 0.10px;
+}
+
+.ContactUs > h5 {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.DownPart > .CopyRight {
+    color: white;
+    padding-right: 100px;
+    padding-top: 150px;
+}
+
+.CopyRight > h5 {
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0.10;
+}
