@@ -15,6 +15,13 @@
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
+
+# 🅰️ Adobe 
+💜 AE
+💜 Pr
+💜 Me
+🧡 Ai
+
 # 🧙🏾‍♀️Currently Exploring
 ✨ Java Script </br>
 ✨ Vegetarian culinary </br>
