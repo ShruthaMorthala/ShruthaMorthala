@@ -20,7 +20,7 @@
 ### 💜 AE </br>
 ### 💜 Pr </br>
 ### 💜 Me </br>
-### 🧡 Ai </br>
+### 💜 Ai </br>
 
 # 🧙🏾‍♀️Currently Exploring
 ✨ Java Script </br>
